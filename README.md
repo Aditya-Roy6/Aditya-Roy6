@@ -1,16 +1,4 @@
-# Hi 👋, I'm Aditya Roy
 
-- 🔭 I'm currently working on **stackpilot - all in one development platform for local workflows and docker, kubernetes and server management.**
-
-- 🌱 I'm currently learning **Agentic AI**
-
-- 👯 I'm looking to collaborate on **open source projects**
-
-- 💬 Ask me about **development and stuff**
-
-- 📫 How to reach me **aditya.roy9395525@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://adityaroy-two.vercel.app/](https://adityaroy-two.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
